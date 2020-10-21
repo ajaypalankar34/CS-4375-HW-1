@@ -1,4 +1,4 @@
-# CS-4375-HW-1
+# Linear Regression Model with and without the sklearn package
 PART 1:
 To begin building the linear regression model, one will first need to 
 import both the pandas and numpy libraries for data manipulation and access to mathematical functions to operate on multi-dimensional arrays.
